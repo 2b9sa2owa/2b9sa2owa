@@ -3,13 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ansible,bash,bitbucket,bootstrap,cloudflare,codepen,css,discord&theme=light&perline=3" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular,ansible,bash,bitbucket,bootstrap,cloudflare,codepen,css,docker,git,github,grafana,html,ai,js,jenkins,jquery,kubernetes,less,linux,maven,mysql,nginx,nodejs,npm,perl,ps,php,postman,powershell,py,rabbitmq,react,sass,vscode&theme=light&perline=10" />
 </p>
-
-<hr>
-
-## 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -18,5 +13,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
