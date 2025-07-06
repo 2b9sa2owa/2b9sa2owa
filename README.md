@@ -1,7 +1,8 @@
 <img src="https://github.com/2b9sa2owa/2b9sa2owa/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=NewCezanne&pause=1000&color=F7AA36&center=true&vCenter=true&width=600&lines=+%E2%89%BD%5E%E2%80%A2%E2%A9%8A%E2%80%A2%5E%E2%89%BC+Hello+Computer_;(%E2%B8%9D%E2%B8%9D%E1%B5%95%E1%B4%97%E1%B5%95%E2%B8%9D%E2%B8%9D)+My+name+is+2b9sa2owa_;" />
+
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
@@ -43,7 +44,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/}{USERNAME/2b9sa2owa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/}2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake.svg" />
   </picture>
