@@ -6,10 +6,10 @@
   <img src="https://skillicons.dev/icons?i=angular,ansible,bash,bitbucket,bootstrap,cloudflare,codepen,css,docker,git,github,grafana,html,ai,js,jenkins,jquery,kubernetes,less,linux,maven,mysql,nginx,nodejs,npm,perl,ps,php,postman,powershell,py,rabbitmq,react,sass,vscode&theme=light&perline=10" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/2b9sa2owa/2b9sa2owa/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> -->
